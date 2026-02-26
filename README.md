@@ -16,4 +16,4 @@ A high-performance proxy to fix broken Pluto TV streams.
 3. Click **Duplicate Space** (Recommended: Set to **Private**).
 4. Once the status is **Running**, copy your Space URL and add `/playlist.m3u` to the end.
 
-[![Deploy to Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/duplicate-this-space-lg.svg)](https://huggingface.co/spaces/YOUR_HF_USERNAME/Stitcher-Bypass-V4?duplicate=true)
+[![Deploy to Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/duplicate-this-space-lg.svg)](https://huggingface.co/spaces/buddychewchew/Stitcher-Bypass-V4?duplicate=true)
